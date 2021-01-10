@@ -6,9 +6,6 @@
 :sunglasses::sunglasses::sunglasses: <br>
 :sunglasses::sunglasses::sunglasses: <br>
 
-
-**Note: if you would like to clone this mini portfolio page:**
-
 Remove the google analytics code at the end of `index.html` please 🙏 or you can setup one for yourself
 
 - Useful Links
