@@ -172,7 +172,7 @@ body, .header .socialMediaButtons {
     margin-top: -390px; }
 
 .portfolio {
-  height: 2400px; /* size */
+  height: 100% !important; /* size */
   width: 100% !important;
   margin: 0 !important;
   text-align: center !important; }
